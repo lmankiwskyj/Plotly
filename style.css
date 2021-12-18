@@ -1,0 +1,16 @@
+ .jumbotron {
+    background-image: url("PIXNIO-39828-4252x2856.jpg");
+    background-size: cover;
+    /* background-size: 100% 100%; */
+    text-align: center;
+    /* color: #337ab7; */
+    /* color: white; */
+    font-weight: bolder;
+}
+.textBackground{
+    background-color: rgba(188,188,188,0.75);
+}
+body{
+    background-color: lightgrey;
+
+}
